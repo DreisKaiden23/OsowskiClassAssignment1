@@ -1,2 +1,2 @@
 def ageOneHundred(x):
-    return 2121 - x 
+    return 2 - x 
